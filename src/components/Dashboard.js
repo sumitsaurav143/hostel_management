@@ -11,7 +11,7 @@ export default function Dashboard() {
 
     function handleLogout() {
         setError('')
-        history.push("/login")
+        history.push("/")
     }
     return (
         <div className="Main"> 
