@@ -1,8 +1,8 @@
 
 .Main{
-    margin-left:-320px;
+    margin-left:-420px;
     height:100vh;
-    width:100vw;
+    width:90vw;
     background-color:rgb(133, 179, 253);
     overflow:hidden;
     display:flex;
