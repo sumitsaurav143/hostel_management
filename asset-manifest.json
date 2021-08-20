@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sumitsaurav143/hostel_management.git/static/css/main.a4376c4b.chunk.css",
-    "main.js": "/sumitsaurav143/hostel_management.git/static/js/main.429a852d.chunk.js",
-    "main.js.map": "/sumitsaurav143/hostel_management.git/static/js/main.429a852d.chunk.js.map",
-    "runtime-main.js": "/sumitsaurav143/hostel_management.git/static/js/runtime-main.36565561.js",
-    "runtime-main.js.map": "/sumitsaurav143/hostel_management.git/static/js/runtime-main.36565561.js.map",
-    "static/css/2.818011ed.chunk.css": "/sumitsaurav143/hostel_management.git/static/css/2.818011ed.chunk.css",
-    "static/js/2.75d8a235.chunk.js": "/sumitsaurav143/hostel_management.git/static/js/2.75d8a235.chunk.js",
-    "static/js/2.75d8a235.chunk.js.map": "/sumitsaurav143/hostel_management.git/static/js/2.75d8a235.chunk.js.map",
-    "index.html": "/sumitsaurav143/hostel_management.git/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/sumitsaurav143/hostel_management.git/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.a4376c4b.chunk.css.map": "/sumitsaurav143/hostel_management.git/static/css/main.a4376c4b.chunk.css.map",
-    "static/js/2.75d8a235.chunk.js.LICENSE.txt": "/sumitsaurav143/hostel_management.git/static/js/2.75d8a235.chunk.js.LICENSE.txt"
+    "main.css": "/hostel_management/static/css/main.e92ef693.chunk.css",
+    "main.js": "/hostel_management/static/js/main.429a852d.chunk.js",
+    "main.js.map": "/hostel_management/static/js/main.429a852d.chunk.js.map",
+    "runtime-main.js": "/hostel_management/static/js/runtime-main.7bab6c4e.js",
+    "runtime-main.js.map": "/hostel_management/static/js/runtime-main.7bab6c4e.js.map",
+    "static/css/2.818011ed.chunk.css": "/hostel_management/static/css/2.818011ed.chunk.css",
+    "static/js/2.75d8a235.chunk.js": "/hostel_management/static/js/2.75d8a235.chunk.js",
+    "static/js/2.75d8a235.chunk.js.map": "/hostel_management/static/js/2.75d8a235.chunk.js.map",
+    "index.html": "/hostel_management/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/hostel_management/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.e92ef693.chunk.css.map": "/hostel_management/static/css/main.e92ef693.chunk.css.map",
+    "static/js/2.75d8a235.chunk.js.LICENSE.txt": "/hostel_management/static/js/2.75d8a235.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36565561.js",
+    "static/js/runtime-main.7bab6c4e.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.75d8a235.chunk.js",
-    "static/css/main.a4376c4b.chunk.css",
+    "static/css/main.e92ef693.chunk.css",
     "static/js/main.429a852d.chunk.js"
   ]
 }
