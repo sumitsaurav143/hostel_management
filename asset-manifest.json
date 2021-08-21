@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hostel_management/static/css/main.59d9e0de.chunk.css",
+    "main.css": "/hostel_management/static/css/main.35aef0c3.chunk.css",
     "main.js": "/hostel_management/static/js/main.367b7c2e.chunk.js",
     "main.js.map": "/hostel_management/static/js/main.367b7c2e.chunk.js.map",
     "runtime-main.js": "/hostel_management/static/js/runtime-main.7bab6c4e.js",
@@ -10,14 +10,14 @@
     "static/js/2.cef00d17.chunk.js.map": "/hostel_management/static/js/2.cef00d17.chunk.js.map",
     "index.html": "/hostel_management/index.html",
     "static/css/2.818011ed.chunk.css.map": "/hostel_management/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.59d9e0de.chunk.css.map": "/hostel_management/static/css/main.59d9e0de.chunk.css.map",
+    "static/css/main.35aef0c3.chunk.css.map": "/hostel_management/static/css/main.35aef0c3.chunk.css.map",
     "static/js/2.cef00d17.chunk.js.LICENSE.txt": "/hostel_management/static/js/2.cef00d17.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7bab6c4e.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.cef00d17.chunk.js",
-    "static/css/main.59d9e0de.chunk.css",
+    "static/css/main.35aef0c3.chunk.css",
     "static/js/main.367b7c2e.chunk.js"
   ]
 }
