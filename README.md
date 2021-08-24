@@ -1,3 +1,8 @@
+Live At:-
+https://sumitsaurav143.github.io/hostel_management/
+
+Developed By: Sumit Saurav
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
