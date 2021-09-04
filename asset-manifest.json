@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hostel_management/static/css/main.9e31325f.chunk.css",
-    "main.js": "/hostel_management/static/js/main.e0224c51.chunk.js",
-    "main.js.map": "/hostel_management/static/js/main.e0224c51.chunk.js.map",
+    "main.css": "/hostel_management/static/css/main.6fc6e343.chunk.css",
+    "main.js": "/hostel_management/static/js/main.42fed988.chunk.js",
+    "main.js.map": "/hostel_management/static/js/main.42fed988.chunk.js.map",
     "runtime-main.js": "/hostel_management/static/js/runtime-main.7bab6c4e.js",
     "runtime-main.js.map": "/hostel_management/static/js/runtime-main.7bab6c4e.js.map",
     "static/css/2.818011ed.chunk.css": "/hostel_management/static/css/2.818011ed.chunk.css",
-    "static/js/2.302f8a57.chunk.js": "/hostel_management/static/js/2.302f8a57.chunk.js",
-    "static/js/2.302f8a57.chunk.js.map": "/hostel_management/static/js/2.302f8a57.chunk.js.map",
+    "static/js/2.1ba697f9.chunk.js": "/hostel_management/static/js/2.1ba697f9.chunk.js",
+    "static/js/2.1ba697f9.chunk.js.map": "/hostel_management/static/js/2.1ba697f9.chunk.js.map",
     "index.html": "/hostel_management/index.html",
     "static/css/2.818011ed.chunk.css.map": "/hostel_management/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.9e31325f.chunk.css.map": "/hostel_management/static/css/main.9e31325f.chunk.css.map",
-    "static/js/2.302f8a57.chunk.js.LICENSE.txt": "/hostel_management/static/js/2.302f8a57.chunk.js.LICENSE.txt"
+    "static/css/main.6fc6e343.chunk.css.map": "/hostel_management/static/css/main.6fc6e343.chunk.css.map",
+    "static/js/2.1ba697f9.chunk.js.LICENSE.txt": "/hostel_management/static/js/2.1ba697f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7bab6c4e.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.302f8a57.chunk.js",
-    "static/css/main.9e31325f.chunk.css",
-    "static/js/main.e0224c51.chunk.js"
+    "static/js/2.1ba697f9.chunk.js",
+    "static/css/main.6fc6e343.chunk.css",
+    "static/js/main.42fed988.chunk.js"
   ]
 }
